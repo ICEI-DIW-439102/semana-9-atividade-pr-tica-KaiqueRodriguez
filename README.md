@@ -11,7 +11,7 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
-![card](Card.png)
+![card](imgs/Card.png)
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
 ![card](imgs/produto.png)
 <<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
